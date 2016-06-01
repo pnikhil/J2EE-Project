@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/mfrpdb" auth="Container"
+        type="javax.sql.DataSource" username="root" password="password-1"
+        driverClassName="com.mysql.jdbc.Driver"
+        url="jdbc:mysql://pc186233:3306/mfrp_cms"
+        maxActive="25" maxIdle="4" /> 
+</Context>

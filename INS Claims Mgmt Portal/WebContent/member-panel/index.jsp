@@ -1,0 +1,1 @@
+<% response.sendRedirect(request.getContextPath()+ "/member-panel/user_dashboard"); %>
